@@ -7,7 +7,7 @@
   "BTTEnabled2" : 1,
   "BTTUUID" : "718F633C-400C-41AE-9612-ED0FF1B3C203",
   "BTTEnabled" : 1,
-  "BTTOrder" : 5,
+  "BTTOrder" : 8,
   "BTTAdditionalActions" : [
     {
       "BTTTriggerType" : 637,
@@ -74,6 +74,6 @@
     "BTTKeepGroupOpenWhileSwitchingApps" : false,
     "BTTTouchBarItemIconWidth" : 22,
     "BTTTouchBarFreeSpaceAfterButton" : 0,
-    "BTTTouchBarItemPadding" : 0
+    "BTTTouchBarItemPadding" : -10
   }
 }

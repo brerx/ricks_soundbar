@@ -8,7 +8,7 @@
   "BTTEnabled2" : 1,
   "BTTUUID" : "600AFCFE-90A6-40FC-BF59-E676A7F3B30D",
   "BTTEnabled" : 1,
-  "BTTOrder" : 10,
+  "BTTOrder" : 12,
   "BTTTriggerConfig" : {
     "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
     "BTTTouchBarItemIconWidth" : 22,
@@ -18,9 +18,10 @@
     "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000",
     "BTTTouchBarWeatherDay" : -1,
     "BTTTouchBarIconTextOffset" : 5,
+    "BTTTouchBarButtonName" : "Weather",
     "BTTTouchBarFreeSpaceAfterButton" : 5,
     "BTTTouchBarWeatherFormat" : "{icon} {temp_rounded}{unit}",
     "BTTTouchBarItemIconHeight" : 22,
-    "BTTTouchBarItemPadding" : 0
+    "BTTTouchBarItemPadding" : -10
   }
 }

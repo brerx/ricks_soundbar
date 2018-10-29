@@ -6,9 +6,9 @@
   "BTTPredefinedActionName" : "No Action",
   "BTTShortcutToSend" : "59,58,49",
   "BTTEnabled2" : 1,
-  "BTTUUID" : "4A9EE86C-B916-46DE-8536-3423C7521D17",
+  "BTTUUID" : "6A48E926-22CD-49D3-AB90-726EFA5FE0C1",
   "BTTEnabled" : 1,
-  "BTTOrder" : 11,
+  "BTTOrder" : 13,
   "BTTTriggerConfig" : {
     "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000",
     "BTTTouchBarFreeSpaceAfterButton" : 5,
@@ -19,7 +19,7 @@
     "BTTTouchBarTimeZoneLocation" : "Europe\/Berlin",
     "BTTTouchBarDateFormat" : "HH:mm",
     "BTTTouchBarItemIconWidth" : 22,
-    "BTTTouchBarItemPadding" : 0,
+    "BTTTouchBarItemPadding" : -10,
     "BTTTouchBarItemIconHeight" : 22
   }
 }
