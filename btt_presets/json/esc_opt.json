@@ -1,0 +1,23 @@
+{
+  "BTTTouchBarButtonName" : "🔥🔥🔥",
+  "BTTTriggerType" : 629,
+  "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+  "BTTPredefinedActionType" : 189,
+  "BTTPredefinedActionName" : "ESC (Escape Key, respects pressed modifiers)",
+  "BTTEnabled2" : 1,
+  "BTTUUID" : "3B48242C-7D23-4FB7-B074-87B138AE5A23",
+  "BTTEnabled" : 1,
+  "BTTRequiredModifierKeys" : 524288,
+  "BTTOrder" : 0,
+  "BTTTriggerConfig" : {
+    "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000",
+    "BTTTouchBarItemIconHeight" : 22,
+    "BTTTouchBarButtonCornerRadius" : 6,
+    "BTTTouchBarItemPlacement" : 1,
+    "BTTTouchBarButtonName" : "🔥🔥🔥",
+    "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+    "BTTTouchBarItemIconWidth" : 22,
+    "BTTTouchBarFreeSpaceAfterButton" : 5,
+    "BTTTouchBarItemPadding" : 0
+  }
+}

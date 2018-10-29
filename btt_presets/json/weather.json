@@ -1,0 +1,26 @@
+{
+  "BTTWidgetName" : "Weather",
+  "BTTTriggerType" : 651,
+  "BTTTriggerTypeDescription" : "Weather Widget",
+  "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+  "BTTPredefinedActionType" : -1,
+  "BTTPredefinedActionName" : "No Action",
+  "BTTEnabled2" : 1,
+  "BTTUUID" : "600AFCFE-90A6-40FC-BF59-E676A7F3B30D",
+  "BTTEnabled" : 1,
+  "BTTOrder" : 10,
+  "BTTTriggerConfig" : {
+    "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+    "BTTTouchBarItemIconWidth" : 22,
+    "BTTTouchBarWeatherLatLon" : "51.3406,12.3747",
+    "BTTTouchBarItemPlacement" : 2,
+    "BTTTouchBarButtonCornerRadius" : 6,
+    "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000",
+    "BTTTouchBarWeatherDay" : -1,
+    "BTTTouchBarIconTextOffset" : 5,
+    "BTTTouchBarFreeSpaceAfterButton" : 5,
+    "BTTTouchBarWeatherFormat" : "{icon} {temp_rounded}{unit}",
+    "BTTTouchBarItemIconHeight" : 22,
+    "BTTTouchBarItemPadding" : 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "BTTTriggerType" : 632,
+  "BTTTriggerTypeDescription" : "Remaining Battery Time Widget",
+  "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+  "BTTPredefinedActionType" : -1,
+  "BTTPredefinedActionName" : "No Action",
+  "BTTEnabled2" : 1,
+  "BTTUUID" : "D703BD6F-EC7B-4486-B878-0A7940F7258C",
+  "BTTEnabled" : 1,
+  "BTTOrder" : 4,
+  "BTTTriggerConfig" : {
+    "BTTTouchBarShowBatteryPercentage" : true,
+    "BTTTouchBarShowRemainingBatteryTime" : true,
+    "BTTTouchBarButtonCornerRadius" : 6,
+    "BTTTouchBarItemPlacement" : 1,
+    "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000",
+    "BTTTouchBarItemIconHeight" : 22,
+    "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+    "BTTTouchBarItemIconWidth" : 22,
+    "BTTTouchBarFreeSpaceAfterButton" : 5,
+    "BTTTouchBarItemPadding" : 0
+  }
+}
