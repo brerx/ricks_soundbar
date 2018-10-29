@@ -5,10 +5,10 @@
   "BTTPredefinedActionType" : -1,
   "BTTPredefinedActionName" : "No Action",
   "BTTEnabled2" : 1,
-  "BTTUUID" : "BDB7773D-F758-4F81-8173-0771D5C80BD3",
+  "BTTUUID" : "8106E131-B2C8-43C7-99D0-0344FB8D15C7",
   "BTTEnabled" : 1,
   "BTTRequiredModifierKeys" : 524288,
-  "BTTOrder" : 12,
+  "BTTOrder" : 14,
   "BTTAdditionalActions" : [
     {
       "BTTTouchBarButtonName" : "Close Group",
@@ -17,21 +17,20 @@
       "BTTPredefinedActionType" : 191,
       "BTTPredefinedActionName" : "Close currently open Touch Bar group",
       "BTTEnabled2" : 1,
-      "BTTUUID" : "B335D504-1725-4F88-89B5-C8990E8557D7",
+      "BTTUUID" : "9F5BFFDE-B753-46F3-A0BD-DA4A376F7779",
       "BTTEnabled" : 1,
       "BTTOrder" : 0,
       "BTTIconData" : "Standard Close Icon",
       "BTTTriggerConfig" : {
-        "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000",
-        "BTTTouchBarItemIconHeight" : 22,
+        "BTTTouchBarFreeSpaceAfterButton" : 5,
+        "BTTTouchBarItemPadding" : 0,
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
-        "BTTTouchBarButtonName" : "Close Group",
         "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarOnlyShowIcon" : true,
-        "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000",
+        "BTTTouchBarItemIconHeight" : 22
       }
     },
     {
@@ -52,10 +51,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "wrecked!",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -75,10 +74,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "sloppy",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -98,10 +97,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "focus",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -121,10 +120,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "bullcrap",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -144,10 +143,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "careful",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -167,10 +166,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "goddamn",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -190,10 +189,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "soph.",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -213,10 +212,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "lick",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -236,10 +235,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "party",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -259,10 +258,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "opinion",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -282,10 +281,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "poor",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -305,10 +304,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "resp.",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -328,10 +327,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "see",
-        "BTTTouchBarButtonColor" : "75.323769, 75.323769, 75.323769, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -351,10 +350,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "simulation",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -374,10 +373,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "ty",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -397,10 +396,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "traditions",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -420,10 +419,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "trust",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -443,10 +442,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "weird",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -466,10 +465,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "!!!",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     }
   ],
@@ -481,7 +480,7 @@
     "BTTTouchBarItemPlacement" : 0,
     "BTTTouchBarButtonName" : "Rick",
     "BTTTouchBarItemIconHeight" : 22,
-    "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+    "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
     "BTTKeepGroupOpenWhileSwitchingApps" : false,
     "BTTTouchBarItemIconWidth" : 22,
     "BTTTouchBarFreeSpaceAfterButton" : 5,

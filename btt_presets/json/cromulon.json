@@ -8,7 +8,7 @@
   "BTTUUID" : "C14B0B22-3477-4615-9436-1D4AB463BA0A",
   "BTTEnabled" : 1,
   "BTTRequiredModifierKeys" : 524288,
-  "BTTOrder" : 14,
+  "BTTOrder" : 16,
   "BTTAdditionalActions" : [
     {
       "BTTTouchBarButtonName" : "Close Group",
@@ -22,16 +22,15 @@
       "BTTOrder" : 0,
       "BTTIconData" : "Standard Close Icon",
       "BTTTriggerConfig" : {
-        "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000",
-        "BTTTouchBarItemIconHeight" : 22,
+        "BTTTouchBarFreeSpaceAfterButton" : 5,
+        "BTTTouchBarItemPadding" : 0,
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
-        "BTTTouchBarButtonName" : "Close Group",
         "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarOnlyShowIcon" : true,
-        "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000",
+        "BTTTouchBarItemIconHeight" : 22
       }
     },
     {
@@ -52,10 +51,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "show me!",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.808665, 32.994162, 36.296762, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -75,10 +74,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "like!",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.808665, 32.994162, 36.296762, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -98,10 +97,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "good job",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.808665, 32.994162, 36.296762, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -121,10 +120,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "disq",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.808665, 32.994162, 36.296762, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     },
     {
@@ -144,10 +143,10 @@
         "BTTTouchBarButtonCornerRadius" : 6,
         "BTTTouchBarItemPlacement" : 0,
         "BTTTouchBarButtonName" : "disq!",
-        "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+        "BTTTouchBarButtonColor" : "31.808665, 32.994162, 36.296762, 255.000000",
         "BTTTouchBarItemIconWidth" : 22,
         "BTTTouchBarFreeSpaceAfterButton" : 5,
-        "BTTTouchBarItemPadding" : 0
+        "BTTTouchBarItemPadding" : -10
       }
     }
   ],
@@ -159,7 +158,7 @@
     "BTTTouchBarItemPlacement" : 0,
     "BTTTouchBarButtonName" : "Cromulon",
     "BTTTouchBarItemIconHeight" : 22,
-    "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+    "BTTTouchBarButtonColor" : "31.567674, 34.050452, 36.222955, 255.000000",
     "BTTKeepGroupOpenWhileSwitchingApps" : false,
     "BTTTouchBarItemIconWidth" : 22,
     "BTTTouchBarFreeSpaceAfterButton" : 5,
